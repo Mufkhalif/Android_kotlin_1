@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KeyboardInfo</string>
+    <string name="load_image">load image</string>
+    <string name="description">Full aluminum casing The new bezel design shares a similar sleek frame as its predecessor, Durable　exceptional　reliable performance PBT double-shot seamless pudding keycaps German Cherry MX key switches, Detachable USB Type-C We use USB HID with the highest frequency of 1000Hz polling rate, meaning the keyboard is sending its input signal(s) to your PC 1000 times per second.</string>
+    <string name="findingboard">FindingBoard</string>
+    <string name="find_your_favourite_keyboard_end_enjoy">Find your favourite keyboard end Enjoy</string>
+    <string name="image_logo">image logo</string>
+    <string name="product_number">Product Number</string>
+    <string name="dkyotp2019">DKYOTP2019</string>
+    <string name="about">About</string>
+</resources>
